@@ -1,0 +1,33 @@
+﻿  stdafx.cpp
+  Xini.cpp
+  UI.cpp
+  Tools.cpp
+  Title.cpp
+  System.cpp
+  silentini.cpp
+  silent.cpp
+  OfflineHooks.cpp
+  Inireader.cpp
+  INI.cpp
+  Detour.cpp
+  DashCalls.cpp
+  Bypasses.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/RELEASE' specification
+  XexTool v6.3  -  xorloser 2006-2011 (Build Fri Oct 14 16:31:54 2011)
+  Reading and parsing input xex file...
+    removed media limit
+    removed region limit
+    removed bounding path limit
+    removed bounding device id limit
+    removed console id restriction
+    removed date restriction
+    removed keyvault privilege restriction
+    removed signed keyvault only limit
+    removed library version limit
+    removed required revocation check
+    removed media id limit
+  Creating and writing output xex file...
+  Successfully wrote altered xex to C:\Users\creec\Desktop\silent\silent\stealth\offline files\silent\silent\Debug\silent.xex
+  
+  C:\Users\creec\Desktop\silent\silent\stealth\offline files\silent\silent\Debug\silent.xex is retail encrypted compressed.
